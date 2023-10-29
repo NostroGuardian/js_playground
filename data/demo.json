@@ -1,0 +1,39 @@
+[
+  {
+    "sitename": "JSPlayground",
+    "links": [
+      {
+        "name": "Home",
+        "url": "#"
+      },
+      {
+        "name": "About",
+        "url": "#"
+      },
+      {
+        "name": "Price",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "pageTitle": "Company employees",
+    "employees": [
+      {
+        "name": "Ivan",
+        "age": 23,
+        "photo": "ivan.jpg"
+      },
+      {
+        "name": "Igor",
+        "age": 22,
+        "photo": "igor.jpg"
+      },
+      {
+        "name": "Arthur",
+        "age": 23,
+        "photo": "arthur.jpg"
+      }
+    ]
+  }
+]
